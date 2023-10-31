@@ -1,0 +1,50 @@
+
+
+.container-fluid{
+    background-size: cover;
+    background-image: url(images/design2.jpg);
+     height: 100vh;
+     
+}
+.heading1{
+    text-align: center;
+    margin-top: 15%;
+    font-weight: 900;
+}
+.box1{
+    margin-left: 20%;
+}
+ li a:hover{
+   background-color: rgb(0, 200, 255);
+}
+.btn1{
+   text-align: center;
+   border-radius: 10%;
+  
+}
+.d-flex{
+    margin-left: 13%;
+
+}
+.content{
+    font-weight: 900;
+}
+h1{
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+h2{
+        font-weight: 700;
+    }
+.row{
+        --bs-gutter-x: 0 !important;
+    }
+    .da-card img{
+        height: 150px;
+        width: 200px;
+    }
+.heading2{
+    font-size: 50px;
+    font-family: 'Trebuchet MS';
+}
+ 
